@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 27 05:06:25 2020
 
-@author: Shaurya-PC
-"""
 
 import librosa
 import numpy as np
